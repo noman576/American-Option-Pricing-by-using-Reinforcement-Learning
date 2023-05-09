@@ -1,1 +1,1 @@
-# American-Option-Pricing-by-using-Reinforcement-Learning
+# American Option Pricing by using Reinforcement Learning
