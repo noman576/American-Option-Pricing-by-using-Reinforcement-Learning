@@ -87,6 +87,13 @@ The project is intended for research communication, learning, and portfolio demo
 **Submission date:** 27 February 2023  
 **Supervisor:** Professor Dr. Elmar Lukas
 
+
+## Thesis Availability
+
+This repository provides the Python notebooks, methodology overview, and selected historical results associated with my master's thesis. The complete thesis document is not publicly distributed through this repository.
+
+The research summary and implementation details are provided for academic discussion, technical review, and portfolio demonstration.
+
 ## Future Research Directions
 
 - Review and correct the reinforcement-learning implementation and algorithm classification.
