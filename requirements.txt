@@ -1,0 +1,8 @@
+numpy
+scipy
+matplotlib
+seaborn
+torch
+gym==0.25.2
+opstrat
+notebook
